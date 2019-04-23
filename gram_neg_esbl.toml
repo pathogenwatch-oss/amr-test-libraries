@@ -1,4 +1,4 @@
-label = "enterobacteriaceae_esbl"
+label = "gram_neg_esbl"
 
 antimicrobials = [ "CEP", "AMP", "CRO", "CAZ", "FEP" ]
 
