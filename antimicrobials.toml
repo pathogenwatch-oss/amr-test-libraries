@@ -11,6 +11,7 @@ antimicrobials = [
 {name = "Cefepime", key = "FEP", type = "Extended Spectrum Beta-Lactams"},
 {name = "Ceftriaxone", key = "CRO", type = "Extended-Spectrum Beta-Lactams"},
 {name = "Capreomycin", key = "CAP", type = "Capreomycin"},
+{name = "Ertepenem", key = "ETP", type = "Carbapenems"},
 {name = "Meropenem", key = "MEM", type = "Carbapenems"},
 {name = "Broad-Spectrum Cephalosporins", key = "CEP", type = "Broad-Spectrum Cephalosporins"},
 {name = "Cefixime", key = "CFM", type = "Broad-spectrum Cephalosporins"},
