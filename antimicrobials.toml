@@ -1,4 +1,5 @@
 antimicrobials = [
+{name = "Aminoglycosides", key = "AGS" ,type = "Aminoglycosides"},
 {name = "Amikacin", key = "AMI", type = "Aminoglycosides"},
 {name = "Gentamicin", key = "GEN", type = "Aminoglycosides"},
 {name = "Kanamycin", key = "KAN", type = "Aminoglycosides"},
@@ -7,10 +8,12 @@ antimicrobials = [
 {name = "Ampicillin", key = "AMP", type = "Beta-Lactams"},
 {name = "Methicillin", key = "MET", type = "Beta-Lactams"},
 {name = "Penicillin", key = "PEN", type = "Beta-Lactams"},
+{name = "Extended Spectrum Beta-Lactams", key = "ESBL", type = "Extended Spectrum Beta-Lactams"},
 {name = "Ceftazidime", key = "CAZ", type = "Extended Spectrum Beta-Lactams"},
 {name = "Cefepime", key = "FEP", type = "Extended Spectrum Beta-Lactams"},
 {name = "Ceftriaxone", key = "CRO", type = "Extended-Spectrum Beta-Lactams"},
 {name = "Capreomycin", key = "CAP", type = "Capreomycin"},
+{name = "Carbapenems", key = "CBP", type = "Carbapenems"},
 {name = "Ertepenem", key = "ETP", type = "Carbapenems"},
 {name = "Meropenem", key = "MEM", type = "Carbapenems"},
 {name = "Broad-Spectrum Cephalosporins", key = "CEP", type = "Broad-Spectrum Cephalosporins"},
