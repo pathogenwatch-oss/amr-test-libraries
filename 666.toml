@@ -8,8 +8,8 @@ mechanisms = [
 {phenotypes = [{effect = "RESISTANT", profile = ["AGS"]}], members = [{gene="aph(6)-Id", variants=["Q259E"]}]},
 {phenotypes = [{effect = "RESISTANT", profile = ["AGS"]}], members = [{gene="floR", variants=["V147M"]}]},
 {phenotypes = [{effect = "RESISTANT", profile = ["CHL"]}], members = ["catB9"]},
-{phenotypes = [{effect = "RESISTANT", profile = ["CHL"]}], members = ["sul1"]},
-{phenotypes = [{effect = "RESISTANT", profile = ["CHL"]}], members = ["sul2"]},
+{phenotypes = [{effect = "RESISTANT", profile = ["SMX"]}], members = ["sul1"]},
+{phenotypes = [{effect = "RESISTANT", profile = ["SMX"]}], members = ["sul2"]},
 {phenotypes = [{effect = "RESISTANT", profile = ["AMP", "CBP", "CEP", "ESBL"]}], members = ["varG"]},
 ]
 
