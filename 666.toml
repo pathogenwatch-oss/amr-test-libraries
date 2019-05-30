@@ -1,6 +1,8 @@
 label = "666"
 
-antimicrobials = [ "AGS", "CHL", "SMX", "ESBL", "AMP", "CBP", "CEP"]
+extends = ["gram_neg_carbapenemases", "gram_neg_esbl"]
+
+antimicrobials = [ "AGS", "CHL", "SMX", "ESBL", "AMP", "CBP", "CEP", "MEM"]
 
 mechanisms = [
 {phenotypes = [{effect = "RESISTANT", profile = ["AGS"]}], members = [{gene="aph(3')-1b", variants=["V112I"]}]},
