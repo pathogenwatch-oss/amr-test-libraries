@@ -1,0 +1,6 @@
+# Acinetobacter baumanii
+label = "470"
+
+antimicrobials = ["MEM"]
+
+extends = ["gram_neg_carbapenemases"]
