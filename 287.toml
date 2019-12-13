@@ -1,5 +1,5 @@
-# Acinetobacter baumanii
-label = "470"
+# Pseudomonas aeruginosa
+label = "287"
 
 antimicrobials = ["MEM"]
 
